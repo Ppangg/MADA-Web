@@ -1,5 +1,5 @@
 import './App.css';
-import FindPW3 from './pages/FindPW3.js';
+import FindPW3 from './pages/LoginSignup/FindPW3.js';
 import { } from 'react-bootstrap';
 
 function App() {
