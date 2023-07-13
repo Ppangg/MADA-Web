@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Button } from 'react-bootstrap';
 import styles from './Splash.module.css';
-import { ReactComponent as MADACc } from '../img/Splash/MADA_Cc 2.svg'
+import { ReactComponent as MADACc } from '../../img/Splash/MADA_Cc 2.svg'
 
 function FindPW3() {
     return (
