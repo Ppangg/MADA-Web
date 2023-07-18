@@ -1,6 +1,6 @@
 import { React, useState }from 'react';
 import { Container, Button, Form, InputGroup } from 'react-bootstrap';
-import styles from './Splash.module.css';
+import styles from './LoginSignup.module.css';
 
 function Signup21Code() {
 const [isHidden, setIsHidden] = useState(true);

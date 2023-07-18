@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Button, ProgressBar } from 'react-bootstrap';
-import styles from './Splash.module.css';
+import styles from './LoginSignup.module.css';
 import Signup21Name from './Signup21Name';
 import Signup21PhoneNumber from './Signup21PhoneNumber';
 import Signup21Code from './Signup21Code';

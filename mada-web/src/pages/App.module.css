@@ -1,0 +1,14 @@
+.Frame
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;
+     
+    width: 1536px;
+    height: 864px;
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}

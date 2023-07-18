@@ -1,13 +1,14 @@
 import './App.css';
-import FindPW3 from './pages/LoginSignup/FindPW3.js';
-import { } from 'react-bootstrap';
+import styles from './pages/App.module.css'
+import Custom1 from './pages/Custom/Custom1';
+
 
 function App() {
   return (
     <div className="App">
-      <FindPW3/>
+        <Custom1/>
+      
     </div>
-
   );
 }
 

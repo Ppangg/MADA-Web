@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Button, ProgressBar } from 'react-bootstrap';
 import { Link } from 'react-router-dom'
-import styles from './Splash.module.css';
+import styles from './LoginSignup.module.css';
 
 function Signup1() {
     return (
