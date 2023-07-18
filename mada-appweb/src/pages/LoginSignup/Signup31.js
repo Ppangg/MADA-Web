@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Button, ProgressBar } from 'react-bootstrap';
-import styles from './Splash.module.css';
+import styles from './LoginSignup.module.css';
 import Signup31Password from './Signup31Password';
 
 function Signup31() {
